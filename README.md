@@ -34,7 +34,7 @@ squareroot(num1,iternum)
 ```
 
 ## Output:
-![gcd of two number](/sss.jpg)
+![Output](/sss.jpg)
 
 
 ## Result:
