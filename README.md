@@ -34,7 +34,8 @@ squareroot(num1,iternum)
 ```
 
 ## Output:
-![Output](/sss.jpg)
+![Exp-1a CR Swapping of two variables_ Attempt review - Google Chrome 15-06-2023 09_29_25 (2)](https://github.com/saravanan2607/Square-root-of-a-number/assets/121395849/3b6255f7-64ed-4b9e-a526-6847d6c8b0ce)
+
 
 
 ## Result:
